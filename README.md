@@ -1,1 +1,3 @@
-# git-lab-4
+Contact Information
+Email: student@example.com
+Purpose: GitHub collaboration experiment
